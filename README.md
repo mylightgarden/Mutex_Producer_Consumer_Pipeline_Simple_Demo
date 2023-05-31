@@ -1,5 +1,4 @@
-# mutex_simple_demo
-A simple exercise demonstrates mutex &amp; multi threads.
+A simple exercise demonstrates mutex, producer consumer pipeline and multi threads.
 
 There are 4 threads to process input from standard input as follows:
 
